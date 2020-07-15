@@ -1,0 +1,44 @@
+#bloco-feminino{
+    /* background-image: linear-gradient(to 335deg, rgb(238, 165, 177), rgb(206, 91, 110)); */
+    background-color: thistle;
+    /* width: 500px;
+    height: 500px;
+    float: left; */
+    
+}
+
+#bloco-masculino{
+    background-color: rgb(44, 182, 224);
+    /* width: 500px;
+    height: 500px;
+    float: right; */
+
+}
+
+#centro{
+    /* position: relative;
+    width: 300px;
+    height: 300px; */
+    background-color: yellowgreen;
+}
+
+.blocos-topo{
+    float: left;
+    height: 500px;
+    width: 300px;
+    padding: 100px;
+}
+#clearfix{
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.titulo{
+    text-align: center;
+
+}
+
+.txt-central{
+    text-align: center;
+}
